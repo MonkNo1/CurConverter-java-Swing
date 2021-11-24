@@ -25,8 +25,3 @@ R.Chandrakumar && V.Harivaradhan
 Output :
 
 ![image](https://user-images.githubusercontent.com/61575072/143179689-013edba7-0b37-4491-adcd-c7976851c7c7.png)
-
-![image](https://user-images.githubusercontent.com/61575072/143179744-7b301ff5-61ee-4514-b868-10246d81c0b9.png)
-
-![image](https://user-images.githubusercontent.com/61575072/143179772-9c0e50c0-9184-4e92-98c9-16d2eed168a2.png)
-

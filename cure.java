@@ -8,7 +8,7 @@ public class cure {
 
 		JFrame f = new JFrame("CURRENCY CONVERTER");
 
-		JLabel l1, l2;
+		JLabel l1, l2,l3,l4,l5;
 
 		JTextField t1, t2;
 
@@ -17,12 +17,18 @@ public class cure {
 		l1 = new JLabel("Rupees:");
 		l1.setBounds(20, 40, 60, 30);
 		l2 = new JLabel("Dollars:");
-		l2.setBounds(170, 40, 60, 30);
+		l2.setBounds(180, 40, 60, 30);
+		l3 = new JLabel("Done By");
+		l3.setBounds(10, 270, 80, 30);
+		l4 = new JLabel("R Chandrakumar");
+		l4.setBounds(20, 280, 100, 30);
+		l5 = new JLabel("V HARIVARDHAN");
+		l5.setBounds(20, 290, 100, 30);
 
 		t1 = new JTextField("0");
 		t1.setBounds(80, 40, 90, 30);
 		t2 = new JTextField("0");
-		t2.setBounds(240, 40, 90, 30);
+		t2.setBounds(250, 40, 90, 30);
 
 		b1 = new JButton("INR=>USD");
 		b1.setBounds(130, 80, 100, 30);
@@ -69,9 +75,12 @@ public class cure {
 		f.add(b1);
 		f.add(b2);
 		f.add(b3);
+		f.add(l3);
+		f.add(l4);
+		f.add(l5);
 
 		f.setLayout(null);
-		f.setSize(400, 300);
+		f.setSize(400, 370);
 		f.setVisible(true);
 	}
 	public static void main(String args[])

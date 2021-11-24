@@ -17,5 +17,5 @@ cure.java
 ```
 This was Done By  
 ```
-      R.Chandrakumar && V.Harivaradhan
+R.Chandrakumar && V.Harivaradhan
 ```

@@ -9,12 +9,12 @@ import javax.swing.*;
 import java.awt.event.*;
 
 ```
-sample code in file :
+Sample code in file :
 
 ![image](https://user-images.githubusercontent.com/61575072/143179848-7f00a885-3f65-46b7-9d3d-9560269a7be0.png)
 
 
-it starts with a class called cure so we should name this file as
+It starts with a class called cure so we should name this file as
 
 ```
 cure.java 

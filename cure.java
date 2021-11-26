@@ -68,6 +68,7 @@ public class cure {
 				System.exit(0);
 			}
 		});
+		
 		f.add(l1);
 		f.add(t1);
 		f.add(l2);

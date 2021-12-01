@@ -23,7 +23,20 @@ This was Done By
 ```
 R.Chandrakumar && V.Harivaradhan
 ```
+Run the given Program using VScode using run without debugging 
+
+![image](https://user-images.githubusercontent.com/61575072/144173036-f9e394b8-ea47-4445-a9d3-549dfdf488b3.png)
+
+or 
+
+Run the program using cmd using the command 
+
+```
+javac cure.java 
+java cure.class
+```
 
 Output :
 
   ![image](https://user-images.githubusercontent.com/61575072/143179689-013edba7-0b37-4491-adcd-c7976851c7c7.png)
+  
